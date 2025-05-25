@@ -1,0 +1,11 @@
+{
+    "command_example": [
+        "(command) (value)",
+        "g_fov 120 (will set fov to 120)",
+        "!DO NOT ADD A COMMA TO THE LAST COMMAND IT WILL BREAK!"
+    ],
+
+    "commands": [
+
+    ]
+}
