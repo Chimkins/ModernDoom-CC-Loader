@@ -49,7 +49,7 @@ try:
 
     if not commands:
         print("No commands found in Commands.json! Please add some then re-run this program!\n\nThis windows will auto close in 10 seconds. Press \"ctrl+C\" to keep it open")
-        print("\nDon't konw how to add commands? Check the github - [put github link here]")
+        print("\nDon't konw how to add commands? Check the github - https://github.com/Chimkins/ModernDoom-CC-Loader")
         logging.info("No commands found")
         time.sleep(10)
         exit(1)
