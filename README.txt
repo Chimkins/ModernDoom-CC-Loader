@@ -10,7 +10,7 @@ For updates go to https://github.com/Chimkins/ModernDoom-CC-Loader
 
 !VIRUS DISCLAMER!
 
-This program in .exe form is flagged as malware because i used pyinstaller to compile it. It is safe.
+This program in .exe form may be flagged as malware because i used pyinstaller to compile it. It is safe.
 
 Virus Total Report - https://www.virustotal.com/gui/file/8c19a3b2a9a07d8d39b72c6e4c8245974ec5cfbdb4eff19b954906e33235b5a5?nocache=1
 
