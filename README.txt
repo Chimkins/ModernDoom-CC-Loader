@@ -1,6 +1,6 @@
 !HOW TO USE!
 
-CONSOLE UNLOCKER MOD IS HIGHLY RECOMMENDED
+CONSOLE UNLOCKER MOD IS HIGHLY RECOMMENDED FOR DARK AGES
 
 Open "commands.json" (if not there make it or run the program to get a template file), and add your commands under the "commands" variable
 
