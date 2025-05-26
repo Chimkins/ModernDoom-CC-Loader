@@ -4,7 +4,7 @@ CONSOLE UNLOCKER MOD IS HIGHLY RECOMMENDED FOR DARK AGES
 
 Open "commands.json" (if not there make it or run the program to get a template file), and add your commands under the "commands" variable
 
-Then open the game, get to the main menu (or in game), run the program, tab in to the game and press "x"
+Open the game, get to the main menu (or in game), run the program, tab in to the game and press "x"
 
 Watch as all your console commands auto run them selves
 
